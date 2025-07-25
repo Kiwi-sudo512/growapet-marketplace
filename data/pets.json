@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "T-Rex",
+    "price": "$15",
+    "image": "/pets/bunny.jpg",
+    "description": "Bring your garden to life with the prehistoric tyrant!"
+  },
+  {
+    "id": 2,
+    "name": "Raccoon",
+    "price": "$15",
+    "image": "/pets/.jpg",
+    "description": "The sneaky stealer!"
+  }
+]
