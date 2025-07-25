@@ -3,14 +3,14 @@
     "id": 1,
     "name": "T-Rex",
     "price": "$15",
-    "image": "/pets/bunny.jpg",
+    "image": "/pets/download.jfif",
     "description": "Bring your garden to life with the prehistoric tyrant!"
   },
   {
     "id": 2,
     "name": "Raccoon",
     "price": "$15",
-    "image": "/pets/.jpg",
+    "image": "/pets/OIP.jfif",
     "description": "The sneaky stealer!"
   }
 ]
